@@ -6,7 +6,7 @@ import Pricing from '../components/pricing'
 export default function Home() {
   return (
     <div className="container">
-     <HeroSection></HeroSection>
+      <HeroSection></HeroSection>
      <Features></Features>
      <Pricing></Pricing>
     </div>

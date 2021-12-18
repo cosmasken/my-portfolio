@@ -3,11 +3,7 @@ export default function AboutUs() {
         
         
 <div class="p-4 relative">
-    <div class="text-center mb-4 absolute -top-16 right-1/2 transform translate-x-1/2">
-        <a href="#" class="block relative">
-            <img alt="profil" src="/images/person/2.jpeg" class="mx-auto object-cover rounded-lg h-40 w-40  border-2 border-white dark:border-gray-800"/>
-        </a>
-    </div>
+    
     <div class="bg-white dark:bg-gray-800 rounded-lg shadow px-8 py-4 pt-24">
         <div class="text-center">
             <p class="text-2xl text-gray-800 dark:text-white">
